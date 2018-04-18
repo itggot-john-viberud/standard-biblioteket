@@ -1,4 +1,5 @@
 def append(arr, term)
-    return arr << term
+    output = arr
+    return output << term
 end
 
